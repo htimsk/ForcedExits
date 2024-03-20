@@ -8,7 +8,7 @@ To combat these issues, the report explores both existing and novel MEV theft mi
 
 It is currently issues as a Draft and we welcome commetns form the community.
 
-[Download a pdf of the report]([https://github.com/htimsk/ForcedExits/raw/Forced%20Exits.pdf](https://github.com/htimsk/ForcedExits/blob/main/Forced%20Exits.pdf))
+[Download a pdf of the report](https://github.com/htimsk/ForcedExits/blob/main/Forced%20Exits.pdf)
 
 [Google docs version for direct commenting](https://docs.google.com/document/d/1waYXhC7QvqegpkQ3nAXcx9_D3Riev39S2W-NpUgAHKI/edit?usp=sharing)
 
